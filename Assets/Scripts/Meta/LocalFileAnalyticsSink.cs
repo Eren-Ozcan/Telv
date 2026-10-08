@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using UnityEngine;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "Analitik" varsayılan hedefi: gerçek bir backend

@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using Telve.Data;
+using Telv.Data;
 using UnityEngine;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     public enum Language
     {

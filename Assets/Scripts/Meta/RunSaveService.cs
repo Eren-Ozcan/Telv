@@ -1,11 +1,11 @@
 using UnityEngine;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>ROADMAP.md Faz 3 "Kayıt sistemi": RunSaveData'nın PlayerPrefs'e ham JSON olarak saklanması.</summary>
     public static class RunSaveService
     {
-        const string Key = "Telve.Meta.RunSave";
+        const string Key = "Telv.Meta.RunSave";
 
         public static bool HasSavedRun() => PlayerPrefs.HasKey(Key);
 

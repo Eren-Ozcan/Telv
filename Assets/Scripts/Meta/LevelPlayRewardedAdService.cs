@@ -2,7 +2,7 @@ using System;
 using Unity.Services.LevelPlay;
 using UnityEngine;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "Rewarded ad entegrasyonu". Gerçek com.unity.services.levelplay

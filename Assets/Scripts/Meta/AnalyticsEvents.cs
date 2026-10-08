@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "Analitik: koşu tamamlama, ölüm noktaları, kombo

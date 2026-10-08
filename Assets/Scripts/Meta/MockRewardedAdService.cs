@@ -1,6 +1,6 @@
 using System;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// GERÇEK REKLAM SDK'SI DEĞİL. Reklam her zaman "hazır" ve izlenince

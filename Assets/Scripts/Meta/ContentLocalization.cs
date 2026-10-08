@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using Telve.Data;
-using Telve.Gameplay;
+using Telv.Data;
+using Telv.Gameplay;
 using UnityEngine;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "fal terminolojisinin İngilizce karşılıkları":

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 3 "Kayıt sistemi: meta ilerleme kalıcılığı". Bilgelik
@@ -14,14 +14,14 @@ namespace Telve.Meta
     /// </summary>
     public static class MetaProgressStore
     {
-        const string TotalWisdomKey = "Telve.Meta.TotalWisdom";
-        const string DiscoveredCombosKey = "Telve.Meta.DiscoveredCombos";
-        const string UnlockedCharactersKey = "Telve.Meta.UnlockedCharacters";
-        const string SelectedCharacterKey = "Telve.Meta.SelectedCharacter";
-        const string LanguageKey = "Telve.Meta.Language";
-        const string TutorialCompletedKey = "Telve.Meta.TutorialCompleted";
-        const string OwnedCosmeticsKey = "Telve.Meta.OwnedCosmetics";
-        const string PrivacyConsentGivenKey = "Telve.Meta.PrivacyConsentGiven";
+        const string TotalWisdomKey = "Telv.Meta.TotalWisdom";
+        const string DiscoveredCombosKey = "Telv.Meta.DiscoveredCombos";
+        const string UnlockedCharactersKey = "Telv.Meta.UnlockedCharacters";
+        const string SelectedCharacterKey = "Telv.Meta.SelectedCharacter";
+        const string LanguageKey = "Telv.Meta.Language";
+        const string TutorialCompletedKey = "Telv.Meta.TutorialCompleted";
+        const string OwnedCosmeticsKey = "Telv.Meta.OwnedCosmetics";
+        const string PrivacyConsentGivenKey = "Telv.Meta.PrivacyConsentGiven";
         const char ComboIdSeparator = '|';
 
         public static int LoadTotalWisdom() => PlayerPrefs.GetInt(TotalWisdomKey, 0);

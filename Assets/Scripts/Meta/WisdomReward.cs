@@ -1,4 +1,4 @@
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 3 "Bilgelik puanı: koşu sonu kazanım". Kalıcı

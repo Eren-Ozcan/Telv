@@ -1,6 +1,6 @@
 using System;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "Rewarded ad entegrasyonu: koşu sonu 'ikinci şans'

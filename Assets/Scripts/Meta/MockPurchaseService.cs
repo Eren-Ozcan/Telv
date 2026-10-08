@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// GERÇEK MAĞAZA BAĞLANTISI DEĞİL — ödeme almaz. Satın alma isteği her

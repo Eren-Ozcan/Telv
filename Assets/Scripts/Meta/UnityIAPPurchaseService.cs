@@ -4,12 +4,12 @@ using UnityEngine;
 using UnityEngine.Purchasing;
 using UnityEngine.Purchasing.Extension;
 
-namespace Telve.Meta
+namespace Telv.Meta
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "IAP altyapısı (Unity IAP)". Gerçek com.unity.purchasing
     /// SDK'sına bağlı. ÜRÜN KATALOĞU (App Store Connect / Google Play Console
-    /// tarafında `Telve.Data.CosmeticItem.cosmeticId`lerle eşleşen ürünlerin
+    /// tarafında `Telv.Data.CosmeticItem.cosmeticId`lerle eşleşen ürünlerin
     /// oluşturulması) ve imzalı bir build olmadan `UnityPurchasing.Initialize`
     /// tamamlanmaz — bu sınıf bu yüzden mağaza hesabı kurulana kadar
     /// GameController.Awake()'te varsayılan olarak ATANMAZ (hâlâ
@@ -26,7 +26,7 @@ namespace Telve.Meta
         public UnityIAPPurchaseService()
         {
             var builder = ConfigurationBuilder.Instance(StandardPurchasingModule.Instance());
-            foreach (var cosmetic in Resources.LoadAll<Telve.Data.CosmeticItem>("Data/Cosmetics"))
+            foreach (var cosmetic in Resources.LoadAll<Telv.Data.CosmeticItem>("Data/Cosmetics"))
             {
                 builder.AddProduct(cosmetic.cosmeticId, ProductType.NonConsumable);
             }
