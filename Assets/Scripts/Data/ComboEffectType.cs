@@ -1,4 +1,4 @@
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// See docs/design/03-scoring.md step 3-4: flat bonuses are summed into

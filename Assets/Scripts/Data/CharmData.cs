@@ -1,12 +1,12 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// One passive tılsım from docs/design/05-charms.md. Purely data —
     /// the actual effect logic dispatches on effectTarget at runtime.
     /// </summary>
-    [CreateAssetMenu(fileName = "Charm_", menuName = "Telve/Charm", order = 2)]
+    [CreateAssetMenu(fileName = "Charm_", menuName = "Telv/Charm", order = 2)]
     public class CharmData : ScriptableObject
     {
         public string charmId;

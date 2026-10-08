@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     [System.Serializable]
     public struct ContentLocalizationEntry
@@ -20,7 +20,7 @@ namespace Telve.Data
     /// düzenlemeye gerek kalmaz). Ayrı tablo örnekleri: SymbolStrings,
     /// ComboStrings, CharmStrings, CharacterStrings — bkz. ContentLocalization.
     /// </summary>
-    [CreateAssetMenu(fileName = "ContentLocalizationTable", menuName = "Telve/ContentLocalizationTable", order = 6)]
+    [CreateAssetMenu(fileName = "ContentLocalizationTable", menuName = "Telv/ContentLocalizationTable", order = 6)]
     public class ContentLocalizationTable : ScriptableObject
     {
         public ContentLocalizationEntry[] entries;

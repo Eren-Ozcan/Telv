@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     [System.Serializable]
     public struct LocalizationEntry
@@ -17,7 +17,7 @@ namespace Telve.Data
     /// İngilizce karşılıkları ayrı iş — erken başla"); bu tablo sadece UI
     /// çerçevesi (buton/panel metinleri) içindir.
     /// </summary>
-    [CreateAssetMenu(fileName = "LocalizationTable", menuName = "Telve/LocalizationTable", order = 4)]
+    [CreateAssetMenu(fileName = "LocalizationTable", menuName = "Telv/LocalizationTable", order = 4)]
     public class LocalizationTable : ScriptableObject
     {
         public LocalizationEntry[] entries;

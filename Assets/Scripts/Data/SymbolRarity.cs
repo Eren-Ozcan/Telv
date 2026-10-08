@@ -1,4 +1,4 @@
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// Shared across symbols and charms — see docs/design/01-symbols.md

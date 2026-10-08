@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     public enum CosmeticCategory
     {
@@ -14,7 +14,7 @@ namespace Telve.Data
     /// string: gerçek fiyat/para birimi mağaza tarafından (App Store/
     /// Google Play ürün kataloğu) belirlenir, burada sadece placeholder.
     /// </summary>
-    [CreateAssetMenu(fileName = "Cosmetic_", menuName = "Telve/CosmeticItem", order = 5)]
+    [CreateAssetMenu(fileName = "Cosmetic_", menuName = "Telv/CosmeticItem", order = 5)]
     public class CosmeticItem : ScriptableObject
     {
         public string cosmeticId;

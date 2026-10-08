@@ -1,4 +1,4 @@
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// Which stage of the docs/design/03-scoring.md pipeline (or which

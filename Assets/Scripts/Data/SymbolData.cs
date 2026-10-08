@@ -1,12 +1,12 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// One fal sembolü. Field set mirrors docs/design/01-symbols.md 1:1 so
     /// the 24-symbol MVP table can be transcribed straight into assets.
     /// </summary>
-    [CreateAssetMenu(fileName = "Symbol_", menuName = "Telve/Symbol", order = 0)]
+    [CreateAssetMenu(fileName = "Symbol_", menuName = "Telv/Symbol", order = 0)]
     public class SymbolData : ScriptableObject
     {
         [Tooltip("Stable identifier used by ComboData.requiredSymbolIds — not the display name.")]

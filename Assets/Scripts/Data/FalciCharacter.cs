@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// ROADMAP.md Faz 3 "2-3 falcı karakteri (farklı başlangıç koşulu/pasif
@@ -12,7 +12,7 @@ namespace Telve.Data
     /// CharmData sistemini "pasif" olarak yeniden kullanır — ayrı bir efekt
     /// dispatch mekanizması gerekmiyor.
     /// </summary>
-    [CreateAssetMenu(fileName = "Character_", menuName = "Telve/FalciCharacter", order = 3)]
+    [CreateAssetMenu(fileName = "Character_", menuName = "Telv/FalciCharacter", order = 3)]
     public class FalciCharacter : ScriptableObject
     {
         public string characterId;

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Telve.Data
+namespace Telv.Data
 {
     /// <summary>
     /// One kombo from docs/design/02-combos.md. requiredSymbolIds is an
@@ -8,7 +8,7 @@ namespace Telve.Data
     /// ikili, length 3 for üçlü kombolar) — matched against consecutive
     /// positions in the player's reading order.
     /// </summary>
-    [CreateAssetMenu(fileName = "Combo_", menuName = "Telve/Combo", order = 1)]
+    [CreateAssetMenu(fileName = "Combo_", menuName = "Telv/Combo", order = 1)]
     public class ComboData : ScriptableObject
     {
         public string comboId;
