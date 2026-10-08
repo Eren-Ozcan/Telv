@@ -1,4 +1,4 @@
-# Telve
+# Telv
 
 A deck-building roguelike themed around Turkish coffee fortune-telling.
 Balatro's "one deck, endless combos" loop combined with the narrative

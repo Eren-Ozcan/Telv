@@ -1,4 +1,4 @@
-# 🔮 Telve — Roadmap
+# 🔮 Telv — Roadmap
 
 > A deck-building roguelike themed around Turkish coffee fortune-telling.
 > Balatro's "one deck, endless combos" loop + the narrative power of
@@ -41,7 +41,7 @@ The goal is not beauty, it is proving that **the fun works in code too**. Placeh
 
 ## Phase 2 — Vertical Slice / "The Feel" (4-6 weeks)
 
-Goal: all of the MVP content + the presentation layer that establishes the game's **emotion**. What sold Balatro was the click of the score counter; what will sell Telve is the atmosphere of the cup.
+Goal: all of the MVP content + the presentation layer that establishes the game's **emotion**. What sold Balatro was the click of the score counter; what will sell Telv is the atmosphere of the cup.
 
 ### Presentation
 - [x] Lock the art direction: dim table, steam, candlelight, coffee-grounds texture (try 2-3 concepts, pick one) *(3 concepts produced — `Assets/Art/Concepts/`; "B - flat gold linework, midnight blue/gold palette, vector folk-art" was chosen — the most legible option for icon production)*

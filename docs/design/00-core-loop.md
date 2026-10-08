@@ -55,7 +55,7 @@ Customer 1 → [market] → Customer 2 → [market] → ... → Customer 8
 
 ## Why This Loop Works With the Balatro Analogy
 
-| Balatro | Telve |
+| Balatro | Telv |
 |---|---|
 | Draw a hand of cards | Flip the cup → symbols appear |
 | Select a poker hand (which cards are played) | Arrange the reading order (which symbol goes where) |
@@ -66,7 +66,7 @@ Customer 1 → [market] → Customer 2 → [market] → ... → Customer 8
 | Shop | Market |
 | Boss blind | Headman |
 
-The difference: in Balatro the *selection* of the hand matters, while in Telve
+The difference: in Balatro the *selection* of the hand matters, while in Telv
 the *order* of the hand (the arrangement) matters — the adjacency-based combo
 system puts the ordering decision at the center of the game. This is the most
 critical assumption to be tested in the Phase 0 paper prototype (see the

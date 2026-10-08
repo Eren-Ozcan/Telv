@@ -11,7 +11,7 @@ adapted from there.
 ## App name (30 characters)
 
 ```
-Telve
+Telv
 ```
 
 ## Short description (80 characters)
@@ -25,7 +25,7 @@ Turkish coffee fortune roguelike — flip the cup, read the symbols, build luck.
 ```
 Flip the cup. Read the grounds. Build your fortune.
 
-Telve is a roguelike deckbuilder built around tasseography — the old art of
+Telv is a roguelike deckbuilder built around tasseography — the old art of
 reading fortunes in Turkish coffee grounds. Draw symbols from your cup,
 arrange them into a reading order, and watch adjacent symbols trigger
 combos for bigger payouts. One cup, endless combinations.
@@ -108,7 +108,7 @@ Console UI as "Bulmaca, Gündelik, Roguelike oyunlar").
   create an account" was selected).
 - **Privacy policy**: `https://yilkgames.com/privacy-policy/` was entered into
   the Play Console and saved. ✅ This is a single studio-wide page (covering
-  Reefy, Little Grand Hotel, Çengel Bulmaca, Dleverse, Telve, Lightwake, Domina
+  Reefy, Little Grand Hotel, Çengel Bulmaca, Dleverse, Telv, Lightwake, Domina
   and CosmicRumble) — it is updated automatically when a new game is added, and
   no Telv-specific page is required.
 - **Content rating questionnaire**: completed and submitted. ✅ It came out at
