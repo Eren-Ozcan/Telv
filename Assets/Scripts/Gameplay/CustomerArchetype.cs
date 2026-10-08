@@ -1,4 +1,4 @@
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     /// <summary>
     /// ROADMAP.md Faz 2 "Müşteri çeşitliliği: 4-5 arketip, hafif kural

@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
-using Telve.Data;
+using Telv.Data;
 
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     /// <summary>
     /// docs/design/04-economy.md: "Her pazar ziyaretinde 3 seçenek sunulur."

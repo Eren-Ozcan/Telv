@@ -1,4 +1,4 @@
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     /// <summary>
     /// docs/design/04-economy.md müşteri eşik/ödeme tablosu. Regular(n)

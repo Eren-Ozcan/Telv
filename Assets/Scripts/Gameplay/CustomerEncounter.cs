@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Telve.Data;
+using Telv.Data;
 
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     public readonly struct EncounterResult
     {

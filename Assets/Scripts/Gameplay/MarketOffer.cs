@@ -1,6 +1,6 @@
-using Telve.Data;
+using Telv.Data;
 
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     /// <summary>One pazar seçeneği: ya bir sembol ya da bir tılsım, asla ikisi birden.</summary>
     public readonly struct MarketOffer

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     /// <summary>
     /// docs/design/00-core-loop.md "Gün Döngüsü": 8 sıradan müşteri +

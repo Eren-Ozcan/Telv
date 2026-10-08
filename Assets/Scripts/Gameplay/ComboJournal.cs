@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Telve.Gameplay
+namespace Telv.Gameplay
 {
     /// <summary>
     /// ROADMAP.md Faz 2 "Falcı defteri v1": keşfedilen kombo id'lerinin
