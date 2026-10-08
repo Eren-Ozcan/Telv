@@ -1,10 +1,10 @@
 using System;
 using System.IO;
-using Telve.Data;
+using Telv.Data;
 using UnityEditor;
 using UnityEngine;
 
-namespace Telve.EditorTools
+namespace Telv.EditorTools
 {
     /// <summary>
     /// Transcribes docs/design/01-symbols.md, 02-combos.md and 05-charms.md

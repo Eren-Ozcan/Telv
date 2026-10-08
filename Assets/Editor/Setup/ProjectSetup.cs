@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-namespace Telve.EditorTools
+namespace Telv.EditorTools
 {
     /// <summary>
     /// One-shot project configuration run via -batchmode -executeMethod:
@@ -14,14 +14,14 @@ namespace Telve.EditorTools
     /// </summary>
     public static class ProjectSetup
     {
-        const string RendererDataPath = "Assets/Settings/Telve_URPRenderer.asset";
-        const string PipelineAssetPath = "Assets/Settings/Telve_URPAsset.asset";
+        const string RendererDataPath = "Assets/Settings/Telv_URPRenderer.asset";
+        const string PipelineAssetPath = "Assets/Settings/Telv_URPAsset.asset";
 
         public static void Configure()
         {
             ConfigureUrp();
             ConfigurePortraitOrientation();
-            PlayerSettings.productName = "Telve";
+            PlayerSettings.productName = "Telv";
 
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();

@@ -4,7 +4,7 @@ using UnityEditor.PackageManager;
 using UnityEditor.PackageManager.Requests;
 using UnityEngine;
 
-namespace Telve.EditorTools
+namespace Telv.EditorTools
 {
     /// <summary>
     /// Headless (-batchmode -executeMethod) package installer. Resolves each
@@ -21,7 +21,7 @@ namespace Telve.EditorTools
     [InitializeOnLoad]
     public static class PackageInstaller
     {
-        const string QueueKey = "Telve.PackageInstaller.Queue";
+        const string QueueKey = "Telv.PackageInstaller.Queue";
 
         static AddRequest _current;
         static string _currentPackage;
