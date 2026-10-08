@@ -3,7 +3,7 @@ using System.Text;
 using UnityEditor.TestTools.TestRunner.Api;
 using UnityEngine;
 
-namespace Telve.EditorTools
+namespace Telv.EditorTools
 {
     /// <summary>
     /// Programmatic EditMode test runner for use from Coplay's script executor,

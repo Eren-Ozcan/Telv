@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using Telve.Data;
-using Telve.Gameplay;
-using Telve.Meta;
+using Telv.Data;
+using Telv.Gameplay;
+using Telv.Meta;
 using UnityEditor;
 using UnityEngine;
 
-namespace Telve.EditorTools
+namespace Telv.EditorTools
 {
     /// <summary>
     /// ROADMAP.md Faz 3 "Denge turu: 20+ tam koşu verisiyle sembol/tılsım/
