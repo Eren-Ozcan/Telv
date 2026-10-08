@@ -1,6 +1,6 @@
 {
-    "name": "Telve.Runtime",
-    "rootNamespace": "Telve",
+    "name": "Telv.Runtime",
+    "rootNamespace": "Telv",
     "references": [
         "UnityEngine.Purchasing",
         "UnityEngine.Purchasing.Stores",
