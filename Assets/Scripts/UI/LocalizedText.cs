@@ -1,8 +1,8 @@
-using Telve.Meta;
+using Telv.Meta;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "Yerelleştirme altyapısı". Statik UI çerçeve metni

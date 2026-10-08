@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Telve.Gameplay;
+using Telv.Gameplay;
 using UnityEngine;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 2 "Ses": GameController olaylarına abone olup ilgili

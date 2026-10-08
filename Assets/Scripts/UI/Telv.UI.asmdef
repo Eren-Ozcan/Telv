@@ -1,8 +1,8 @@
 {
-    "name": "Telve.UI",
-    "rootNamespace": "Telve.UI",
+    "name": "Telv.UI",
+    "rootNamespace": "Telv.UI",
     "references": [
-        "Telve.Runtime",
+        "Telv.Runtime",
         "UnityEngine.UI"
     ],
     "includePlatforms": [],

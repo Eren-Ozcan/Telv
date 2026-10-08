@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// GameView'ın önceden sahneye koyduğu sabit sayıdaki (bkz. GameView

@@ -1,8 +1,8 @@
-using Telve.Meta;
+using Telv.Meta;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 3 "2-3 falcı karakteri" + "Bilgelik puanı: kalıcı

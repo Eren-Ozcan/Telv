@@ -1,8 +1,8 @@
-using Telve.Meta;
+using Telv.Meta;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>ROADMAP.md Faz 4 yerelleştirme: TR/EN arasında geçiş yapan buton.</summary>
     public class LanguageToggleView : MonoBehaviour

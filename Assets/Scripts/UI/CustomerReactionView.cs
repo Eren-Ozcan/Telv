@@ -1,8 +1,8 @@
-using Telve.Gameplay;
+using Telv.Gameplay;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 2 "Müşteri tepki sistemi": eşik aşılıp aşılmadığına

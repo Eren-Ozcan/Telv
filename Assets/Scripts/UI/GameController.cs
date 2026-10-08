@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Telve.Data;
-using Telve.Gameplay;
-using Telve.Meta;
+using Telv.Data;
+using Telv.Gameplay;
+using Telv.Meta;
 using UnityEngine;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// Faz 1 dijital prototip orkestratörü (ROADMAP.md: "amaç güzellik

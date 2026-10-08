@@ -1,9 +1,9 @@
-using Telve.Gameplay;
-using Telve.Meta;
+using Telv.Gameplay;
+using Telv.Meta;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "Tutorial / ilk 5 dakika akışı (ilk müşteri =

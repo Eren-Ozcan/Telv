@@ -1,11 +1,11 @@
 using System.Collections;
 using System.Text;
-using Telve.Gameplay;
-using Telve.Meta;
+using Telv.Gameplay;
+using Telv.Meta;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// GameController'daki durumu placeholder UI'ya yansıtır (ROADMAP.md

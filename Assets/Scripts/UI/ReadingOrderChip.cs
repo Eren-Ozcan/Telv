@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// GameView'ın önceden sahneye koyduğu sabit sayıdaki (bkz. GameView

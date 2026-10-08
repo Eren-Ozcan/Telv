@@ -1,7 +1,7 @@
-using Telve.Meta;
+using Telv.Meta;
 using UnityEngine;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 4 "GDPR/KVKK/ATT izin akışları". Sahnedeki ConsentText

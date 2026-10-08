@@ -1,11 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
-using Telve.Gameplay;
-using Telve.Meta;
+using Telv.Gameplay;
+using Telv.Meta;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Telve.UI
+namespace Telv.UI
 {
     /// <summary>
     /// ROADMAP.md Faz 2 "Kombo tetiklenme geri bildirimi": eşleşen her
