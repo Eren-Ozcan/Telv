@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using Telve.Gameplay;
+using Telv.Gameplay;
 
-namespace Telve.Tests
+namespace Telv.Tests
 {
     /// <summary>docs/design/00-core-loop.md "Gün Döngüsü" akışını doğrular.</summary>
     public class DaySessionTests

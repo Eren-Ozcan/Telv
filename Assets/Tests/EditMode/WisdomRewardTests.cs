@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using Telve.Meta;
+using Telv.Meta;
 
-namespace Telve.Tests
+namespace Telv.Tests
 {
     public class WisdomRewardTests
     {

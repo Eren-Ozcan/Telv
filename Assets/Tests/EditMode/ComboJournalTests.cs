@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using NUnit.Framework;
-using Telve.Data;
-using Telve.Gameplay;
+using Telv.Data;
+using Telv.Gameplay;
 using UnityEngine;
 
-namespace Telve.Tests
+namespace Telv.Tests
 {
     /// <summary>ROADMAP.md Faz 2 "Falcı defteri v1" keşif kaydını doğrular.</summary>
     public class ComboJournalTests

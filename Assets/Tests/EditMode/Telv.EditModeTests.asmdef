@@ -1,10 +1,10 @@
 {
-    "name": "Telve.EditModeTests",
-    "rootNamespace": "Telve.Tests",
+    "name": "Telv.EditModeTests",
+    "rootNamespace": "Telv.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "Telve.Runtime"
+        "Telv.Runtime"
     ],
     "includePlatforms": [
         "Editor"

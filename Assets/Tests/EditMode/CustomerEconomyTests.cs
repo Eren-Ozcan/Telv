@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using NUnit.Framework;
-using Telve.Data;
-using Telve.Gameplay;
+using Telv.Data;
+using Telv.Gameplay;
 using UnityEngine;
 
-namespace Telve.Tests
+namespace Telv.Tests
 {
     /// <summary>docs/design/04-economy.md müşteri eşik/ödeme tablosunu doğrular.</summary>
     public class CustomerEconomyTests

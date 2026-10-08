@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using Telve.Gameplay;
+using Telv.Gameplay;
 
-namespace Telve.Tests
+namespace Telv.Tests
 {
     /// <summary>ROADMAP.md Faz 2 arketip çarpanlarını doğrular (bkz. CustomerProfile.ArchetypeMultipliers).</summary>
     public class CustomerProfileTests

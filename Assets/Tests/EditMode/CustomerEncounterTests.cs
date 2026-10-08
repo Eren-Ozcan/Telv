@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
-using Telve.Data;
-using Telve.Gameplay;
+using Telv.Data;
+using Telv.Gameplay;
 using UnityEditor;
 using UnityEngine;
 
-namespace Telve.Tests
+namespace Telv.Tests
 {
     /// <summary>
     /// docs/design/00-core-loop.md "Bir Müşteri Turu" uçtan uca:
